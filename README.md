@@ -8,7 +8,7 @@
 **My mission in my work is to make information available to everyone**  
 We live in a world of data but it's not always so easy to understand it. This is where my motivation comes from: turning _DATA_ into _KNOWLEDGE_
 
-## Professional interests
+### Professional interests
 - 🦈 Marine ecology
 - ⛅ Climate change
 - 🏙 Urban mobility
@@ -17,7 +17,7 @@ We live in a world of data but it's not always so easy to understand it. This is
 - 🖱 Digital tools
 - 👩🏽‍🏫 Capacity-building and data literacy
 
-## Technical skills
+### Technical skills
 - 👩🏽‍💻 **I code in R**. Because _R is a language designed to get shit done_ (Hadley Wickham, rstudio::conf, 2022)
 - 🗺 I map in QGIS
 - ⛏ I can create queries in SQL
