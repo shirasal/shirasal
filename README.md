@@ -1,5 +1,5 @@
 # Hola! I'm Shira
-(yes, similar to the grape veriaty 🍷)
+(yes, like the grape veriaty, minus the z 🍷)
 ## I'm a data analyst with background in marine ecology 🐟
 - Curious, open and ready to learn and 
 - Originally from Israel, nowadays I live in Barcelona
