@@ -1,6 +1,6 @@
 # ¡Hola! I'm Shira
 (like the grape variety, minus the z 🍷)
-## I'm a data analyst with background in marine ecology 🐟
+## I'm a data analyst with background in (quantitative) marine ecology 🐟
 - Curious, open and ready to learn 
 - Originally from Israel, nowadays I live in Barcelona
 - Human languages: Hebrew, English, and a bit of Spanish (Castellano) with some catalan influence 😅
