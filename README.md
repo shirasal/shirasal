@@ -19,9 +19,10 @@ We live in a world of data but it's not always so easy to understand it. This is
 
 ### Technical skills
 - 👩🏽‍💻 **I code in R**. Because _R is a language designed to get shit done_ (Hadley Wickham, rstudio::conf, 2022)
-- 🗺 I map in QGIS
+- 🗺 I map in QGIS (and R)
 - ⛏ I can create queries in SQL
 - 🐍 I'm learning Python
+- 🕸 I am familiar with HTML and CSS coding
 - 🗒 I manage projects with Notion  
   
 📫 You can reach me via [email](mailto:shira.salin@gmail.com)
