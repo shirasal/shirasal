@@ -22,9 +22,18 @@ We live in a world of data but it's not always so easy to understand it. This is
 - 🗺 I map in QGIS (and R)
 - ⛏ I can create queries in SQL
 - 🐍 I'm learning Python
-- 🕸 I am familiar with HTML and CSS coding
+- 🕸 I am familiar with HTML, CSS and Tableau
 - 🗒 I manage projects with Notion  
-  
+
+#### R Packages I use often
+  <a href="https://github.com/r-spatial/sf"><img src="https://raw.githubusercontent.com/loreabad6/sfnetworks_WiG/main/figs/sf.png" width="30px"/></a>
+  <a href="https://github.com/tidyverse/tidyverse"><img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" width="30px"/></a>
+  <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="30px"/></a>
+  <a href="https://github.com/thomasp85/patchwork"><img src="https://raw.githubusercontent.com/thomasp85/patchwork/master/man/figures/logo.png" width="30px"/></a>
+  <a href="https://github.com/mitchelloharawild/vitae"><img src="https://github.com/mitchelloharawild/vitae/raw/master/man/figures/logo.png" width="30px"/></a>
+  <a href="https://github.com/rstudio/rmarkdown"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/rmarkdown.png" width="30px"/></a>
+  <a href="https://github.com/tidyverse/stringr"><img src="https://stringr.tidyverse.org/logo.png" width="30px"/></a>
+
 📫 You can reach me via [email](mailto:shira.salin@gmail.com)
 
 <!---
