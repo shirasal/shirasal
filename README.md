@@ -26,13 +26,13 @@ We live in a world of data but it's not always so easy to understand it. This is
 - 🗒 I manage projects with Notion  
 
 #### R Packages I use often
-  <a href="https://github.com/r-spatial/sf"><img src="https://raw.githubusercontent.com/loreabad6/sfnetworks_WiG/main/figs/sf.png" width="50px"/></a>
-  <a href="https://github.com/tidyverse/tidyverse"><img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" width="50px"/></a>
-  <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="50px"/></a>
-  <a href="https://github.com/thomasp85/patchwork"><img src="https://raw.githubusercontent.com/thomasp85/patchwork/master/man/figures/logo.png" width="50px"/></a>
-  <a href="https://github.com/mitchelloharawild/vitae"><img src="https://github.com/mitchelloharawild/vitae/raw/master/man/figures/logo.png" width="50px"/></a>
-  <a href="https://github.com/rstudio/rmarkdown"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/rmarkdown.png" width="50px"/></a>
-  <a href="https://github.com/tidyverse/stringr"><img src="https://stringr.tidyverse.org/logo.png" width="50px"/></a>  
+  <a href="https://github.com/r-spatial/sf"><img src="https://raw.githubusercontent.com/loreabad6/sfnetworks_WiG/main/figs/sf.png" width="40px"/></a>
+  <a href="https://github.com/tidyverse/tidyverse"><img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" width="40px"/></a>
+  <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="40px"/></a>
+  <a href="https://github.com/thomasp85/patchwork"><img src="https://raw.githubusercontent.com/thomasp85/patchwork/master/man/figures/logo.png" width="40px"/></a>
+  <a href="https://github.com/mitchelloharawild/vitae"><img src="https://github.com/mitchelloharawild/vitae/raw/master/man/figures/logo.png" width="40px"/></a>
+  <a href="https://github.com/rstudio/rmarkdown"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/rmarkdown.png" width="40px"/></a>
+  <a href="https://github.com/tidyverse/stringr"><img src="https://stringr.tidyverse.org/logo.png" width="40px"/></a>  
   (I got the idea for this list from [loreabad6](https://github.com/loreabad6) )
 
 📫 You can reach me via [email](mailto:shira.salin@gmail.com)
