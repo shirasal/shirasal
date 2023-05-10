@@ -21,8 +21,7 @@ We live in a world of data but it's not always so easy to understand it. This is
 - 👩🏽‍💻 **I code in R**. Because _R is a language designed to get shit done_ (Hadley Wickham, rstudio::conf, 2022)
 - 🗺 I map in QGIS (and R)
 - ⛏ I can create queries in SQL
-- 🐍 I'm learning Python
-- 🕸 I am familiar with HTML, CSS and Tableau
+- 🕸 I am familiar with Python, HTML, CSS and Tableau and use them when needed  
 - 🗒 I manage projects with Notion  
 
 #### R Packages I use often
