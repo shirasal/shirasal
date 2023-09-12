@@ -3,7 +3,7 @@
 ## I'm a data analyst with background in (quantitative) marine ecology 🐟
 - Curious, open and ready to learn 
 - Originally from Israel, nowadays I live in Barcelona
-- Human languages: Hebrew, English, and a bit of Spanish (Castellano) with some catalan influence 😅
+- Human languages: Hebrew, English, and Spanish (Castellano)
 
 **My mission in my work is to make information available to everyone**  
 We live in a world of data but it's not always so easy to understand it. This is where my motivation comes from: turning _DATA_ into _KNOWLEDGE_
@@ -22,7 +22,7 @@ We live in a world of data but it's not always so easy to understand it. This is
 - 🗺 I map in QGIS (and R)
 - ⛏ I can create queries in SQL
 - 🕸 I am familiar with Python, HTML, CSS and Tableau and use them when needed  
-- 🗒 I manage projects with Notion  
+- 🗒 I manage projects with Notion
 
 #### R Packages I use often
   <a href="https://github.com/r-spatial/sf"><img src="https://raw.githubusercontent.com/loreabad6/sfnetworks_WiG/main/figs/sf.png" width="40px"/></a>
