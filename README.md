@@ -1,18 +1,19 @@
 # ¡Hola! I'm Shira
 (like the grape variety, minus the z 🍷)
 ## I'm a data analyst with background in (quantitative) marine ecology 🐟
-- Curious, open and ready to learn 
-- Originally from Israel, nowadays I live in Barcelona
-- Human languages: Hebrew, English, and Spanish (Castellano)
+Curious, open and ready to learn.
+I speak Hebrew, English, and Spanish (Castellano).
 
 **My mission in my work is to make information available to everyone**  
 We live in a world of data but it's not always so easy to understand it. This is where my motivation comes from: turning _DATA_ into _KNOWLEDGE_
 
 ### Professional interests
 - 🦈 Marine ecology
+<!-- 
 - ⛅ Climate change
 - 🏙 Urban mobility
 - 🦋 Urban ecology
+  -->
 - 📊 Data analytics
 - 🖱 Digital tools
 - 👩🏽‍🏫 Capacity-building and data literacy
